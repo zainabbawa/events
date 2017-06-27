@@ -1,0 +1,71 @@
+- name: open-house-information-breaches
+  title: Open House on Information Breaches
+  city: Bangalore
+  venue: HasGeek House
+  start_time: 2017-05-26 19:00
+  end_time: 2017-05-26 22:00
+  url: https://www.facebook.com/events/299253997189888/
+  blurb: Understand the state of information security in India and abroad, and legal and regulatory measures that companies must comply with, and consumers should be aware of.
+
+- name: kilter-picnic
+  title: "Kilter Picnic #2"
+  city: Bangalore
+  venue: Cubbon Park
+  start_time: 2017-05-28 08:00
+  end_time: 2017-05-28 10:00
+  url: https://blog.kilter.in/kilter-picnic-2-98f50058b8fc
+  blurb: Let’s enjoy a Kilter morning in the park. Invite your friends and bring the kids; this picnic is what you make it. You can discuss habit formation, trade recipes, stretch, or get active with other Kilterers. The slackline group meets nearby, so stay a while and play with them, too.
+  
+- name: open-house-inclusive-spaces
+  title: Open House on building inclusive spaces
+  city: Bangalore
+  venue: HasGeek House
+  start_time: 2017-06-02 19:00
+  end_time: 2017-06-02 21:00
+  url: https://www.facebook.com/events/1694671104175474/
+  blurb: In an era where AI and virtual reality would be the next big truth, how do we make sure that this future is inclusive and reflective of everyone's realities? Joining us on Friday to talk more about this is Jasmine from Hidden Pockets.
+
+- name: open-house-engineering-design
+  title: Open House on engineering for good design
+  city: Bangalore
+  venue: HasGeek House
+  start_time: 2017-06-09 19:00
+  end_time: 2017-06-09 21:00
+  url: https://www.facebook.com/events/1578118532239183/
+  blurb: Engineering involves crafting great user experiences for customers. For this week's open house, we have Mario Stallone, who works on front-end at Myntra. 
+
+- name: open-house-hasjob
+  title: Hasjob open house for employers
+  city: Bangalore
+  venue: HasGeek House
+  start_time: 2017-06-16 19:00
+  end_time: 2017-06-16 20:00
+  url: https://www.facebook.com/events/377669675968615/
+  blurb: The open house on Friday is for startup founders and CEOs, CTOs, HR personnel from enterprises and mid-sized companies, talent acquisition teams & recruiters to discuss challenges in hiring for tech.
+  
+- name: medianama-securing-online-data
+  title: Session on securing online data - MediaNama
+  city: Bangalore
+  venue: Hilton Embassy GolfLinks
+  start_time: 2017-06-23 19:00
+  end_time: 2017-06-23 21:30
+  url: https://docs.google.com/forms/d/e/1FAIpQLScLqpDJLKfxZQsZHcLl-WlG2-R6k9HzLE1b9BSogG1QVgiSXg/viewform
+  blurb: MediaNama is hosting a free, invitation-only, interactive discussion this Friday for Founders, CTO's, CPO's and CIO’s on cloud data security. Apply to attend. (Attendees will be confirmed by 21st June)
+  
+- name: open-house-modern-mobile-teams
+  title: Open House on modern mobile dev teams
+  city: Bangalore
+  venue: HasGeek House
+  start_time: 2017-06-23 19:00
+  end_time: 2017-06-23 20:00
+  url: https://www.facebook.com/events/1789987124627442/
+  blurb: We’d like to invite mobile developers, team leads, and architects for an open discussion to help understand how modern mobile development teams are structured, mobile strategies arrived at, and how tech decisions at made.
+
+- name: open-house-papers-we-love
+  title: Papers we love with Lakshman Prasad
+  city: Bangalore
+  venue: HasGeek House
+  start_time: 2017-06-30 19:00
+  end_time: 2017-06-30 20:00
+  url: https://www.facebook.com/events/1149033318533901/
+  blurb: This Friday, we're putting together a meetup to discuss a paper with Lakshman Prasad. You can find more details about the paper and the topic on the event page.
